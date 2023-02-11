@@ -3,7 +3,10 @@ Design by Free CSS Templates
 http://www.freecsstemplates.org
 Released for free under a Creative Commons Attribution 2.5 License
 */
-antiover {
+#antiover {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
     overflow:hidden;
 }
 .no-italics {
